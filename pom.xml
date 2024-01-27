@@ -154,6 +154,12 @@
             <artifactId>commonmark</artifactId>
             <version>0.21.0</version>
         </dependency>
+        <dependency>
+            <groupId>com.amazonaws</groupId>
+            <artifactId>aws-java-sdk</artifactId>
+            <version>1.12.645</version> <!-- Replace with the actual version number -->
+        </dependency>
+
     </dependencies>
 
     <build>
